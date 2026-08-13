@@ -1,12 +1,12 @@
 {
-    "name": "TrueDot",
-    "category": "工具",
-    "downloadUrl": "https://apps.apple.com/app/truedot/id6504784441",
-    "website": "https://www.jackcring.com",
-    "logo": "logo.webp",
-    "medias": [
-        "0.mp4",
-        "1.webp",
-        "2.png"
-    ]
+  "name": "TrueDot",
+  "category": "graphics-design",
+  "downloadUrl": "https://apps.apple.com/app/truedot/id6504784441",
+  "website": "",
+  "logo": "logo.webp",
+  "medias": [
+    "0.mp4",
+    "1.webp",
+    "2.png"
+  ]
 }
