@@ -1,0 +1,13 @@
+{
+  "name": "Queue",
+  "category": "news",
+  "downloadUrl": "https://apps.apple.com/us/app/queue-simple-podcasts/id6639586996",
+  "website": "",
+  "logo": "logo.webp",
+  "medias": [
+    "0.mp4",
+    "1.webp",
+    "2.webp",
+    "3.webp"
+  ]
+}
