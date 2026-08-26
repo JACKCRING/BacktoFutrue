@@ -1,0 +1,11 @@
+{
+  "name": "Cassette",
+  "category": "music",
+  "downloadUrl": "https://apps.apple.com/us/app/cassette-home-video-player/id6475023019",
+  "website": "",
+  "logo": "logo.webp",
+  "medias": [
+    "0.mp4",
+    "1.webp"
+  ]
+}
